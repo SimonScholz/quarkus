@@ -4,6 +4,6 @@ Going to add some Quarkus examples here
 
 == Sources
 
-https://quarkus.io/
-https://www.youtube.com/watch?v=7G_r1iyrn2c&t=37s
-https://www.youtube.com/watch?v=za5CSBX-UME&t=19s
+* https://quarkus.io/
+* https://www.youtube.com/watch?v=7G_r1iyrn2c&t=37s
+* https://www.youtube.com/watch?v=za5CSBX-UME&t=19s
